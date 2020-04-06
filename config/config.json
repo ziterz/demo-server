@@ -7,10 +7,10 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "postgres",
-    "password": "postgres",
-    "database": "book_production",
-    "host": "127.0.0.1",
+    "username": "fvrnzgpufeqyoi",
+    "password": "f8d76abf2bb27b4887b94ef141ae66de3ac7c35cd6255dfab9d772cb719583cd",
+    "database": "d5e1rq9n3prrbm",
+    "host": "ec2-18-209-187-54.compute-1.amazonaws.com",
     "dialect": "postgres"
   }
 }
